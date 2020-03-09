@@ -39,7 +39,7 @@ Q - increasing rotation speed to the left
 
 E - increasing rotation speed to the right
 
-Spacja - dropping the turbine
+Space - dropping the turbine
 
 Esc - closing the window
 
